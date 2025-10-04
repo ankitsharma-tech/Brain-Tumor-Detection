@@ -96,15 +96,15 @@ Brain Tumor Detection
 
 The authors would like to acknowledge the contributions of the research community in the field of brain tumor detection using deep learning. The open-source datasets and repositories have been instrumental in the development of this project[1][2][3][4][5][6][7][8].
 
-Citations:
-[1] https://www.github.com/TheNaiveSamosa
-[2] https://github.com/TheNaiveSamosa
-[3] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6
-[5] https://www.mdpi.com/1999-4893/16/4/176
-[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505/
-[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739/
-[8] https://www.nature.com/articles/s41598-024-57970-7
+Citations:   
+[1] https://www.github.com/TheNaiveSamosa   
+[2] https://github.com/TheNaiveSamosa   
+[3] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset   
+[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6   
+[5] https://www.mdpi.com/1999-4893/16/4/176   
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505   
+[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739   
+[8] https://www.nature.com/articles/s41598-024-57970-7   
 
 ## How to Use
 
