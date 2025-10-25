@@ -4,7 +4,9 @@
 
 Brain tumors are a serious medical condition affecting both children and adults, constituting 85 to 90 percent of all primary Central Nervous System (CNS) tumors. Annually, around 11,700 people receive a brain tumor diagnosis, with a 5-year survival rate of approximately 34 percent for men and 36 percent for women. Proper treatment, planning, and accurate diagnostics are crucial to improving patient life expectancy.
 
-This project focuses on automated classification techniques using Deep Learning Algorithms such as Convolutional Neural Network (CNN), Transfer Learning (TL), and Artificial Neural Network (ANN). These techniques offer higher accuracy than manual classification, aiding doctors worldwide in efficient detection and classification of brain tumors[1][2][4][5][6][7][8].
+This project focuses on automated brain tumor classification using advanced Deep Learning algorithms such as Convolutional Neural Networks (CNN), Transfer Learning (TL), and Artificial Neural Networks (ANN). These models significantly outperform manual classification methods by providing higher accuracy, faster analysis, and consistent results.
+
+By leveraging these techniques, the system assists medical professionals worldwide in the efficient detection and classification of brain tumors, ultimately supporting early diagnosis and improved treatment planning [1][2][4][5][6][7][8].
 
 ## 🌐 Context
 
@@ -96,15 +98,15 @@ Brain Tumor Detection
 
 The authors would like to acknowledge the contributions of the research community in the field of brain tumor detection using deep learning. The open-source datasets and repositories have been instrumental in the development of this project[1][2][3][4][5][6][7][8].
 
-Citations:   
-[1] https://www.github.com/TheNaiveSamosa   
-[2] https://github.com/TheNaiveSamosa   
-[3] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset   
-[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6   
-[5] https://www.mdpi.com/1999-4893/16/4/176   
-[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505   
-[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739   
-[8] https://www.nature.com/articles/s41598-024-57970-7   
+Citations:  
+[1] https://www.github.com/TheNaiveSamosa  
+[2] https://github.com/TheNaiveSamosa  
+[3] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  
+[4] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6  
+[5] https://www.mdpi.com/1999-4893/16/4/176  
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505  
+[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739  
+[8] https://www.nature.com/articles/s41598-024-57970-7
 
 ## How to Use
 
